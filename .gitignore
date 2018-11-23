@@ -1,0 +1,19 @@
+!.keep
+*.DS_Store
+*.swo
+*.swp
+.byebug_history
+/.bundle
+/.env.local
+/coverage/*
+/log/*
+/node_modules
+/public/assets
+/public/packs
+/public/system
+/tags
+/tmp/*
+/yarn-error.log
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
